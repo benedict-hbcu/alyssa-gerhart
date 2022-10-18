@@ -30,7 +30,7 @@ public class Main {
 
             if(userGuess.equalsIgnoreCase(RandomWord)){
                 //count = count + 1;
-                System.out.println("\nYou got it in " + count + " guess(es)");
+                System.out.println("\nYou got it in " + count + " tries");
                 System.exit(0);
             }
 
